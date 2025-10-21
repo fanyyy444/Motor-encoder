@@ -76,6 +76,5 @@ void leerEncoder() {
       direccionCodigo = -1; // Izquierda
     }
   }
-  // Actualizamos el estado para la próxima interrupción
   estadoCanalA_Anterior = estadoCanalA;
 }
